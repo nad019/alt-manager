@@ -1,0 +1,4 @@
+# one address per line; anything after '#' is a label
+11111111111111111111111111111111                 # System Program
+TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA      # SPL Token
+So11111111111111111111111111111111111111112      # WSOL mint

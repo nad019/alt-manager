@@ -1,0 +1,22 @@
+{
+  "name": "alt-manager",
+  "version": "1.0.0",
+  "description": "Create, extend, inspect and close Solana Address Lookup Tables (ALTs) from the command line",
+  "license": "MIT",
+  "author": "HHVL (https://github.com/nad019)",
+  "private": true,
+  "main": "dist/alt-manager.js",
+  "bin": { "alt-manager": "dist/alt-manager.js" },
+  "scripts": {
+    "build": "tsc",
+    "alt": "node dist/alt-manager.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.4.0"
+  },
+  "engines": { "node": ">=18" }
+}

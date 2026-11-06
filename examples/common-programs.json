@@ -1,0 +1,18 @@
+[
+  { "address": "11111111111111111111111111111111", "label": "System Program" },
+  { "address": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA", "label": "SPL Token" },
+  { "address": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb", "label": "Token-2022" },
+  { "address": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL", "label": "Associated Token Account" },
+  { "address": "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr", "label": "Memo v2" },
+  { "address": "Sysvar1nstructions1111111111111111111111111", "label": "Sysvar Instructions" },
+  { "address": "So11111111111111111111111111111111111111112", "label": "WSOL mint" },
+  { "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v", "label": "USDC mint" },
+  { "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB", "label": "USDT mint" },
+  { "address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8", "label": "Raydium AMM v4" },
+  { "address": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK", "label": "Raydium CLMM" },
+  { "address": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C", "label": "Raydium CPMM" },
+  { "address": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc", "label": "Orca Whirlpool" },
+  { "address": "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo", "label": "Meteora DLMM" },
+  { "address": "cpamdpZCGKUy5JxQXB4dcpGPiikHawvSWAd6mEn1sGG", "label": "Meteora DAMM v2" },
+  { "address": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA", "label": "Pump AMM" }
+]
